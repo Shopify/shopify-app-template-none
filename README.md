@@ -1,4 +1,4 @@
-# Shopify App Template - None
+# Shopify App Template - None (app with extensions only)
 
 This is a template for building a [Shopify app](https://shopify.dev/docs/apps/getting-started) that includes no app home UI. It contains the basics for building a Shopify app that uses only app extensions.
 
