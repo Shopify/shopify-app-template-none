@@ -1,0 +1,19 @@
+# Environment Configuration
+.env
+.env.*
+
+# Dependency directory
+node_modules
+
+# Test coverage directory
+coverage
+
+# Ignore Apple macOS Desktop Services Store
+.DS_Store
+
+# Logs
+logs
+*.log
+
+# extensions build output
+extensions/*/build

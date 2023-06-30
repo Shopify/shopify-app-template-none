@@ -1,0 +1,15 @@
+{
+  "name": "my-shopify-app",
+  "version": "1.0.0",
+  "license": "UNLICENSED",
+  "scripts": {
+    "shopify": "shopify",
+    "info": "shopify app info",
+    "generate": "shopify app generate",
+    "deploy": "shopify app deploy"
+  },
+  "dependencies": {
+    "@shopify/app": "^3.0.0",
+    "@shopify/cli": "^3.0.0"
+  }
+}
