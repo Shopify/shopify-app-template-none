@@ -17,3 +17,8 @@ logs
 
 # extensions build output
 extensions/*/build
+
+# lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
