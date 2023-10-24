@@ -13,5 +13,6 @@
   "dependencies": {
     "@shopify/app": "^3",
     "@shopify/cli": "^3"
-  }
+  },
+  "trustedDependencies": ["@shopify/plugin-cloudflare"]
 }
