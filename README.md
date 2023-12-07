@@ -10,7 +10,7 @@ Whether you choose to use this template or another one, you can use your preferr
 
 Shopify apps are built on a variety of Shopify tools to create a great merchant experience. The [create an app](https://shopify.dev/docs/apps/getting-started/create) tutorial in our developer documentation will guide you through creating a Shopify app.
 
-This app template does little more than install the CLI and scaffold a respository.
+This app template does little more than install the CLI and scaffold a repository.
 
 ## Getting started
 
@@ -46,7 +46,7 @@ This will clone the template and install the required dependencies.
 
 #### Local Development
 
-[The Shopify CLI](https://shopify.dev/docs/apps/tools/cli) connects to an app in your Partners dashboard. It provides environment variables and runs commands in parallel..
+[The Shopify CLI](https://shopify.dev/docs/apps/tools/cli) connects to an app in your Partners dashboard. It provides environment variables and runs commands in parallel.
 
 You can develop locally using your preferred package manager. Run one of the following commands from the root of your app.
 
