@@ -1,8 +1,8 @@
-# Shopify App Template - None (app with extensions only)
+# Shopify App Template - Extension Only
 
-This is a template for building a [Shopify app](https://shopify.dev/docs/apps/getting-started) that includes no app home UI. It contains the basics for building a Shopify app that uses only app extensions.
+This is a template for building an [Extension only Shopify app](https://shopify.dev/docs/apps/build/app-extensions/build-extension-only-app). It contains the basics for building a Shopify app that uses only app extensions.
 
-**If you plan for your app to load its own page in the Shopify Admin, then you'll want to choose one of our other templates.**
+This template does not include a server, or the ability to embed a full page in the Shopify Admin. If you want either of these capabilities, choose the [Remix app template](https://github.com/Shopify/shopify-app-template-remix) instead.
 
 Whether you choose to use this template or another one, you can use your preferred package manager and the Shopify CLI with [these steps](#installing-the-template).
 
@@ -46,7 +46,7 @@ This will clone the template and install the required dependencies.
 
 #### Local Development
 
-[The Shopify CLI](https://shopify.dev/docs/apps/tools/cli) connects to an app in your Partners dashboard. It provides environment variables and runs commands in parallel..
+[The Shopify CLI](https://shopify.dev/docs/apps/tools/cli) connects to an app in your Partners dashboard. It provides environment variables and runs commands in parallel.
 
 You can develop locally using your preferred package manager. Run one of the following commands from the root of your app.
 
@@ -73,6 +73,6 @@ Open the URL generated in your console. Once you grant permission to the app, yo
 ## Developer resources
 
 - [Introduction to Shopify apps](https://shopify.dev/docs/apps/getting-started)
-- [App authentication](https://shopify.dev/docs/apps/auth)
+- [App extensions](https://shopify.dev/docs/apps/build/app-extensions)
+- [Extension only apps](https://shopify.dev/docs/apps/build/app-extensions/build-extension-only-app)
 - [Shopify CLI](https://shopify.dev/docs/apps/tools/cli)
-- [Shopify API Library documentation](https://github.com/Shopify/shopify-api-js#readme)
