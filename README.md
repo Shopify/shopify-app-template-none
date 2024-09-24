@@ -10,7 +10,7 @@ Whether you choose to use this template or another one, you can use your preferr
 
 Shopify apps are built on a variety of Shopify tools to create a great merchant experience. The [create an app](https://shopify.dev/docs/apps/getting-started/create) tutorial in our developer documentation will guide you through creating a Shopify app.
 
-This app template does little more than install the CLI and scaffold a respository.
+This app template does little more than install the CLI and scaffold a repository.
 
 ## Getting started
 
