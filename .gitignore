@@ -17,6 +17,7 @@ logs
 
 # extensions build output
 extensions/*/build
+extensions/*/dist
 
 # lock files
 package-lock.json
