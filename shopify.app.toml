@@ -1,4 +1,5 @@
 # This file stores configurations for your Shopify app.
 # It must exist at the root of your app.
 
+client_id = ""
 scopes = ""
