@@ -2,4 +2,7 @@
 # It must exist at the root of your app.
 
 client_id = ""
+
+[access_scopes]
+# Learn more at https://shopify.dev/docs/apps/tools/cli/configuration#access_scopes
 scopes = ""
